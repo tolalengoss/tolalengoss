@@ -1,15 +1,12 @@
 # 👋 Hi, I’m @tolalengoss
 
-An Open Source Lover & DevOps Enthusiast based in Phnom Penh, Cambodia. I’m passionate about improving my skills, meeting like-minded individuals, finding mentors, and teaching others.
+An Open Source Lover & DevOps Enthusiast based in Phnom Penh, Cambodia. I’m passionate about improving my skills existing skills - Meet people who are interested in similar things - Find mentors and teach others
 
 ## 👀 Interests
 - Open source projects
 - DevOps practices
 - Backend development
-- Cloud infrastructure
 - Container orchestration tools
-
-## 🌱 Currently Learning
 - Cloud infrastructure management
 - Kubernetes and Docker
 - CI/CD pipelines
@@ -19,11 +16,6 @@ I’m looking to collaborate on:
 - Open-source projects
 - Initiatives that promote DevOps best practices
 - Backend development projects
-
-## 📫 How to Reach Me
-- Email: [tolaleng.sna@gmail.com](mailto:tolaleng.sna@gmail.com)
-- Website: [www.nextbackend.com](http://www.nextbackend.com)
-- Twitter: [@tolaleng](https://twitter.com/tolaleng) (if applicable)
 
 ## ⚡ Fun Fact
 I love connecting with people who share similar interests and learning from their experiences.
@@ -35,6 +27,7 @@ I love connecting with people who share similar interests and learning from thei
 - **Frameworks**: Flask, Django, etc.
 - **Tools**: Docker, Kubernetes, Jenkins, etc.
 - **Cloud Services**: AWS, Azure, etc.
+- **Much more to learn...
 
 ---
 
