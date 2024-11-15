@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @tolalengoss
 
-An Open Source Lover & DevOps Enthusiast based in Phnom Penh, Cambodia. I’m passionate about improving my skills existing skills - Meet people who are interested in similar things - Find mentors and teach others
+- **An Open Source Lover & DevOps Enthusiast based in Phnom Penh, Cambodia. I’m passionate about improving my skills existing skills - Meet people who are interested in similar things - Find mentors and teach others
 ---
 
 ## 🛠️ Skills
